@@ -73,4 +73,4 @@ cd /Quiz_App
 
 ## License
 
-This Weather App is licensed is Free
+This Quiz App is licensed is Free
