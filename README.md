@@ -54,7 +54,11 @@ List the software, tools, and dependencies users need to have installed before u
 - Any other specific prerequisites
 
 ### ScreenShots
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/72e01481-3185-49c7-a405-c29a6d21c6dc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Himanshu99252/Quizapp_Project/assets/98584579/dcf8b4a5-93ad-4b4f-bbd7-5b1f8782cf57" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Himanshu99252/Quizapp_Project/assets/98584579/8967031a-32d6-4a56-892e-e38a7ba69e5c" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Himanshu99252/Quizapp_Project/assets/98584579/67469ba6-9104-4691-b711-3e6a4fc43f94" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Himanshu99252/Quizapp_Project/assets/98584579/a6b8506d-1c5d-400e-91c3-dc79390a326f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Himanshu99252/Quizapp_Project/assets/98584579/76946083-8ec9-4e10-947e-fb06a48da0e9" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ### Installation
 
