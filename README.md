@@ -69,3 +69,8 @@ git clone https://github.com/YourUsername/Quiz_App.git
 cd /Quiz_App
 # Add instructions for setting up Firebase configuration
 # Build and run the project in Android Studio
+```
+
+## License
+
+This Weather App is licensed is Free
